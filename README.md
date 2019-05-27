@@ -1,2 +1,3 @@
 # hello-world
-just other repository
+just other document
+
